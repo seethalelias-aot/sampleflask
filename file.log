@@ -1,0 +1,7 @@
+2021-09-14 18:00:41,966 werkzeug - INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-14 18:00:59,899 werkzeug - INFO:127.0.0.1 - - [14/Sep/2021 18:00:59] "GET /hello HTTP/1.1" 308 -
+2021-09-14 18:00:59,912 app - WARNING:hello world
+2021-09-14 18:00:59,912 app - WARNING:hello world
+2021-09-14 18:00:59,913 app - INFO:testing...
+2021-09-14 18:00:59,913 app - INFO:testing...
+2021-09-14 18:00:59,913 werkzeug - INFO:127.0.0.1 - - [14/Sep/2021 18:00:59] "GET /hello/ HTTP/1.1" 200 -
